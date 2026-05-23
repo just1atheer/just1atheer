@@ -20,34 +20,27 @@
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+<div align="center">
 
-### 🗄️ Database & Backend
-- MySQL
-- JDBC
-- phpMyAdmin
-- XAMPP
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-### 🎨 UI/UX & Design
-- Axure RP
-- Wireframing
-- User Interface Design
-- User Experience Design
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![XAMPP](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp)
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Canva
-- Microsoft Office
+![Axure](https://img.shields.io/badge/Axure_RP-black?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoftoffice)
 
+</div>
 ---
 
 # 🚀 Featured Projects

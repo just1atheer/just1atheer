@@ -36,9 +36,8 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp)
 
 ![Axure](https://img.shields.io/badge/Axure_RP-black?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoftoffice)
+
 
 </div>
 ---

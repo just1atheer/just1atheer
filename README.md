@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4OHV2YjFqNGh0aGl1dWVkYjI3N2Q1a2M0a3M4N2E2NjQ2YmR4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYEqEzwMWFCg8rm/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800"/>
 
 # Hey, I'm Atheer Alamri 👋✨
 
@@ -10,67 +10,102 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 🎓 Computer Science student
-- 💻 Passionate about Web Development & UI/UX
-- 🌱 Currently learning Algorithms & Advanced Web Systems
-- ✨ Interested in creating educational and user-friendly systems
-- ☕ Surviving university with coffee and deadlines
+🎓 Computer Science student passionate about building user-friendly web applications and improving user experience.
+
+💻 Experienced in web development, database systems, Java OOP, and UI/UX prototyping.
+
+🌱 Currently learning more about algorithms, system design, and advanced web technologies.
+
+☕ Turning coffee into code and surviving deadlines one project at a time.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+### 💻 Programming Languages
+- Java
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
-![XAMPP](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp)
+### 🗄️ Database & Backend
+- MySQL
+- JDBC
+- phpMyAdmin
+- XAMPP
+
+### 🎨 UI/UX & Design
+- Axure RP
+- Wireframing
+- User Interface Design
+- User Experience Design
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Canva
+- Microsoft Office
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🛍️ Little Minds Store
-Educational e-commerce website for children's learning products.
+Educational e-commerce website for children’s learning products.
 
-### Features:
-- Shopping cart & checkout
+### Features
+- Shopping cart & checkout system
 - Admin dashboard
 - Product management
-- MySQL database integration
-- Stock management system
+- Stock management
+- Database integration using MySQL
 
 ---
 
 ## 🏨 Hotel Management System
-Java OOP project for hotel reservation and management.
+Java OOP project for hotel booking and management.
 
-### Includes:
-- Room booking
-- Payment system
+### Includes
+- Reservation system
+- Payment processing
 - Customer reviews
-- Database integration using JDBC
+- Room management
+- JDBC database connection
 
 ---
 
 ## 📊 Algorithm Analysis Project
-Performance comparison between:
-- Naive String Matching
-- KMP Algorithm
+Comparison between Naive String Matching and KMP Algorithm.
 
-Including:
+### Includes
 - Running time analysis
 - Best / Average / Worst case comparison
-- Performance charts
+- Performance visualization charts
+
+---
+
+## 🎨 UI/UX Prototype Projects
+Interactive prototypes and user interface designs created using Axure RP.
+
+### Includes
+- Navigation systems
+- Search & filter interactions
+- User-friendly layouts
+- Tourism and service applications
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Web Development
+- Human Computer Interaction
+- Data Structures & Algorithms
+- Database Systems
+- Software Engineering Concepts
 
 ---
 

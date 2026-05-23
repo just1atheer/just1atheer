@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="750"/>
+<img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" width="750"/>
+
+
 
 # Hi, I'm Atheer Alamri 👋✨
 
@@ -86,6 +88,7 @@ Interactive prototypes and interface designs using Axure RP.
 
 - GitHub: https://github.com/just1atheer
 - Email: atheer.alamri1@icloud.com
+- LinkedIn: linkedin.com/in/atheer-alamri-cs1
 
 ---
 

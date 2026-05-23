@@ -88,7 +88,7 @@ Interactive prototypes and interface designs using Axure RP.
 
 - GitHub: https://github.com/just1atheer
 - Email: atheer.alamri1@icloud.com
-- LinkedIn: linkedin.com/in/atheer-alamri-cs1
+- LinkedIn: https://linkedin.com/in/atheer-alamri-cs1
 
 ---
 

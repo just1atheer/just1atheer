@@ -38,7 +38,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp)
 
 ![Axure](https://img.shields.io/badge/Axure_RP-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
 
 
 </div>

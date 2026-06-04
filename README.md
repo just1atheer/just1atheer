@@ -77,17 +77,13 @@ Comparison between Naive String Matching and KMP Algorithm.
 
 ## 🎧 Kids Audio Story Library
 
-Interactive web platform for children’s audio stories with age-based recommendations and accessibility support.
+Educational web platform for interactive children's audio stories.
 
-- Parent account & child profile management
-- Age-based story recommendations: 3–5, 6–8, 9–12
-- Audio player with story transcripts
-- Sign language & accessibility features
-- Picture-based quizzes for comprehension
-- Admin dashboard for content management
-- React.js frontend
-- Spring Boot backend
-- PostgreSQL database integration
+- Age-based recommendations
+- Audio player & transcripts
+- Picture-based quizzes
+- Accessibility features
+- Parent & admin dashboard
 
 ---
 

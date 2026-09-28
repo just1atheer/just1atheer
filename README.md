@@ -98,7 +98,7 @@ Interactive prototypes and interface designs using Axure RP.
 
 # 📫 Contact With Me
 
-- Email: atheer.alamri1@icloud.com
+- Email: atheeralamrii365@gmail.com
 - LinkedIn: https://linkedin.com/in/atheer-alamri-cs1
 
 ---
